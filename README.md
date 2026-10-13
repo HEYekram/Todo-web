@@ -72,10 +72,9 @@ Open `index.html` in your browser, or use the Live Server extension in VS Code f
 
 ## 👨‍💻 Author
 
-**Ikzi**
+**Al Ekram Hossain**
 
 A beginner frontend developer learning by building practical projects.
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and follow its progress.
